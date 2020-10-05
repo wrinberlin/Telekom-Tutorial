@@ -14,3 +14,8 @@ y = np.random.randint(0, 25, 25)
 product = x * y
 
 print(sum(product))
+
+z = np.square(product)
+
+print(z)
+
